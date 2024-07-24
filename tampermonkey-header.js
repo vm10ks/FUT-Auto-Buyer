@@ -27,9 +27,9 @@ module.exports = {
       "https://github.com/DevFRpyjs/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
     ],
     updateURL:
-      "https://github.com/DevFRpyjs/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js",
+      "https://github.com/vm10ks/FUT-Auto-Buyer/releases/download/fut/fut-auto-buyer.user.js",
     downloadURL:
-      "https://github.com/DevFRpyjs/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js",
+      "https://github.com/vm10ks/FUT-Auto-Buyer/releases/download/fut/fut-auto-buyer.user.js",
     noFrame: true,
   },
 };
