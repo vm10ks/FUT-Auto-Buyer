@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/DevFRpyjs/fut-auto-buyer.git"
   },
-  "author": "DevFRpyjs",
+  "author": "Hisham",
   "license": "ISC",
   "dependencies": {
     "webpack": "^5.47.1"
