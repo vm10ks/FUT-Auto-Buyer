@@ -1,10 +1,10 @@
 module.exports = {
   headers: {
-    name: "FUT Auto Buyer",
+    name: "FUT ya wag3 el alb",
     namespace: "http://tampermonkey.net/",
     version: "1.0.0",
     description: "FUT Auto Buyer",
-    author: "DevFRpyjs",
+    author: "Hisham",
     match: [
       "https://www.ea.com/*/fifa/ultimate-team/web-app/*",
       "https://www.ea.com/fifa/ultimate-team/web-app/*",
